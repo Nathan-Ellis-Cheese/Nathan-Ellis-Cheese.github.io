@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>Abertay Third Year Group Project</h1>
